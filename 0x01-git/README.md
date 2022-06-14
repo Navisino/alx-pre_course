@@ -1,1 +1,1 @@
-This is a directory
+This is a nice directory
