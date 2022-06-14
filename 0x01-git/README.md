@@ -1,1 +1,2 @@
-My directory
+This is my directory
+I like it
